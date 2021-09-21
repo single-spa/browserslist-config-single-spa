@@ -1,6 +1,6 @@
 # browserslist-config-single-spa
 
-A shareable browserslist config for single-spa npm packages. This is intended for use in the single-spa npm packages, not in companys' applications.
+A [shareable browserslist config](https://github.com/browserslist/browserslist#shareable-configs) for single-spa npm packages. This is intended for use in the single-spa npm packages, not in companys' applications.
 
 ## Installation
 
