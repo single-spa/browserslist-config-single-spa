@@ -1,6 +1,6 @@
 {
   "name": "browserslist-config-single-spa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A shareable browserslist config for single-spa's npm packages",
   "main": "src/browserslist-config-single-spa.cjs",
   "type": "module",
