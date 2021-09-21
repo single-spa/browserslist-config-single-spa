@@ -1,4 +1,4 @@
-export default [
+module.exports = [
   "ie >= 11",
   "last 4 Safari major versions",
   "last 10 Chrome major versions",
