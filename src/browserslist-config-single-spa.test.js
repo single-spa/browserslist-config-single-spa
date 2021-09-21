@@ -1,5 +1,5 @@
 import browserslist from "browserslist";
-import queries from "./browserslist-config-single-spa.js";
+import queries from "./browserslist-config-single-spa.cjs";
 
 describe("browsereslist-config-single-spa", () => {
   it("exports a valid browserslist config for single-spa", () => {
