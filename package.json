@@ -15,7 +15,7 @@
     "url": "git+https://github.com/single-spa/browserslist-config-single-spa.git"
   },
   "files": [
-    "src/browserslist-config-single-spa.js"
+    "src/browserslist-config-single-spa.cjs"
   ],
   "author": "Joel Denning",
   "license": "MIT",
